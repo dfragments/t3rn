@@ -1,7 +1,7 @@
 from web3 import Web3
 
 # === Customizable Parameters (Fill in here) ===
-PRIVATE_KEY = "0x1234567890"
+PRIVATE_KEY = ""
 AMOUNT_ETH = 0.3  # Amount per cross-chain transaction (unit: ETH)
 TIMES = 10000000  # Number of times to bridge back and forth
 
